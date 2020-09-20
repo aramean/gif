@@ -1,7 +1,7 @@
 # Aramean GIF animations
 
-| Description |  |
-| --: | --: |
+| Name |  |
+| :-- | --: |
 | Homer | <img src="aramean-homer.gif" height="100"> |
 | Dancer | <img src="aramean-dancer.gif" height="100"> |
 | Soccer love | <img src="aramean-soccer-love.gif" height="100"> |
