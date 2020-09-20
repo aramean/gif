@@ -6,6 +6,7 @@
 | Dancer | <img src="aramean-dancer.gif" height="100"> |
 | Burning flag 1 | <img src="aramean-burning-flag1.gif" height="100"> |
 | Burning flag 2 | <img src="aramean-burning-flag2.gif" height="100"> |
+| Waving flag | <img src="aramean-waving-flag.gif" height="100"> |
 | Burning icon 1 | <img src="aramean-burning-icon1.gif" height="100"> |
 | Burning icon 2 | <img src="aramean-burning-icon2.gif" height="100"> |
 | Eagle 1 | <img src="aramean-eagle1.gif" height="100"> |
