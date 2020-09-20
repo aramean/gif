@@ -10,3 +10,5 @@
 | Burning icon 1 | <img src="aramean-burning-icon1.gif" height="100"> |
 | Burning icon 2 | <img src="aramean-burning-icon2.gif" height="100"> |
 | Eagle 1 | <img src="aramean-eagle1.gif" height="100"> |
+| ArDO 1 | <img src="aramean-ardo-democratic1.gif" height="100"> |
+| ArDO 2 | <img src="aramean-ardo-democratic2.gif" height="100"> |
