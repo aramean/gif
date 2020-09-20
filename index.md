@@ -1,0 +1,1 @@
+# Aramean GIF animations
