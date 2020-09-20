@@ -13,5 +13,5 @@
 | Bubble flag 1 | <img src="aramean-bubble-flag1.gif" height="100"> |
 | Eagle 1 | <img src="aramean-eagle1.gif" height="100"> |
 | Infrared | <img src="aramean-infrared.gif" height="100"> |
-| ArDO (Aramean Democratic Organization) 1 | <img src="aramean-ardo-democratic1.gif" height="100"> |
-| ArDO (Aramean Democratic Organization) 2 | <img src="aramean-ardo-democratic2.gif" height="100"> |
+| ArDO 1<br>(Aramean Democratic Organization) | <img src="aramean-ardo-democratic1.gif" height="100"> |
+| ArDO 2<br>(Aramean Democratic Organization) | <img src="aramean-ardo-democratic2.gif" height="100"> |
