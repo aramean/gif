@@ -2,7 +2,7 @@
 
 ## Global tags
 
-- aramean ,aramaean, arami, aram, arameanlar, oromoyo, oromoye, suryoyo, suroyo, suraye, suryoye, süryaniler, surayt, sorayt, sureth, aramaya, aramaye, aramaic, aramit, syriac, suryanice, arameiska, syrianska, aramäisch
+- aramean ,aramaean, arami, aram, arameanlar, oromoyo, oromoye, suryoyo, suroyo, suraye, suryoye, süryaniler, surayt, sorayt, sureth, aramaya, aramaye, aramaic, aramit, syriac, syriaques, suryanice, arameiska, syrianska, aramäisch, araméer, arameeërs, arameos, arameus, aramaicos, araméens
 - ܣܽܘܪܝܳܝܽܘܬܳܐ ,ܣܘܼܪܲܝܬ ,ܐܪ̈ܡܝܐ ,ܐܪܡܝܐ ,ܣܘܪܝܝܐ ,ܣܘܪܝܐ ,ܣܽܘܪܝܳܝܳܐ ,ܐܳܪܳܡ ,ܐܪܡ
 - ארם ,סורי ,אֲרָמִית ,אראמיש ,אָרָמָיָא
 - ارام ,آراميون ,الآرامية
