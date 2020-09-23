@@ -18,4 +18,4 @@
 | #eagle<br>#flag | <img src="aramean-eagle1.gif" style="max-height: 100px"> |
 | #infrared<br>#camera#flag | <img src="aramean-infrared.gif" style="max-height: 100px"> |
 | #ardo<br>#democratic<br>#flag | <img src="aramean-ardo-democratic1.gif" alt="Aramean Democratic Organization" style="max-height: 100px"> |
-| #ardo<br>#democratic<br>#flag | | <img src="aramean-ardo-democratic2.gif" alt="Aramean Democratic Organization" style="max-height: 100px"> |
+| #ardo<br>#democratic<br>#flag | <img src="aramean-ardo-democratic2.gif" alt="Aramean Democratic Organization" style="max-height: 100px"> |
