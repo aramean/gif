@@ -11,8 +11,8 @@
 | Filter tags | Name |
 | :-- | --: |
 | דֶגֶל, ܐܳܬܳܐ ,ܐܬܐ, homer, simpson, woohoo, flag, flagga, flagge, drapeau, vlag | <img src="aramean-homer.gif" alt="Aramean homer flag" style="max-height: 100px"> |
-| דֶגֶל ,ܐܳܬܳܐ ,ܐܬܐ, dance, flag, flagga, flagge, drapeau, vlag | <img src="aramean-dancer.gif" alt="Aramean dancer" style="max-height: 100px"> |
-| דֶגֶל ,ܐܳܬܳܐ ,ܐܬܐ, soccer, player, love, flag, flagga, flagge, drapeau, vlag | <img src="aramean-soccer-love.gif" alt="Aramean flag soccer player love" style="max-height: 100px"> |
+| דֶגֶל ,ܐܳܬܳܐ ,ܐܬܐ, dance, dancing, flag, flagga, flagge, drapeau, vlag | <img src="aramean-dancer.gif" alt="Aramean dancer" style="max-height: 100px"> |
+| דֶגֶל ,ܐܳܬܳܐ ,ܐܬܐ, soccer, fotboll, football, voetbal, player, love, flag, flagga, flagge, drapeau, vlag | <img src="aramean-soccer-love.gif" alt="Aramean flag soccer player love" style="max-height: 100px"> |
 | דֶגֶל ,ܐܳܬܳܐ ,ܐܬܐ ,ܕܠܰܩ ,ܢܺܐܩܰܕ ,ܢܐܩܕ, burn, fire, agitant, flag, flagga, flagge, drapeau, vlag | <img src="aramean-burning-flag1.gif" alt="Aramean burning flag" style="max-height: 100px"> |
 | דֶגֶל ,ܐܳܬܳܐ ,ܐܬܐ ,ܕܠܰܩ ,ܢܺܐܩܰܕ ,ܢܐܩܕ, burn, fire, agitant, flag, flagga, flagge, drapeau, vlag | <img src="aramean-burning-flag2.gif" alt="Aramean burning flag" style="max-height: 100px"> |
 | דֶגֶל ,ܐܳܬܳܐ ,ܐܬܐ, waving, zwaaien, agitant, flag, flagga, flagge, drapeau, vlag | <img src="aramean-waving-flag.gif" alt="Aramean waving flag" style="max-height: 100px"> |
