@@ -6,12 +6,12 @@
 
 | Combine keywords | Name |
 | :-- | --: |
-| #homer #simpsons #woohoo #flag #דֶגֶל# ܐܳܬܳܐ| <img src="aramean-homer.gif" alt="Aramean homer flag" style="max-height: 100px"> |
-| #dance #flag #דֶגֶל# ܐܳܬܳܐ| <img src="aramean-dancer.gif" alt="Aramean dancer" style="max-height: 100px"> |
-| #soccer #player #love #flag #דֶגֶל# ܐܳܬܳܐ| <img src="aramean-soccer-love.gif" alt="Aramean flag soccer player love" style="max-height: 100px"> |
-| #burn #flag #דֶגֶל# ܐܳܬܳܐ| <img src="aramean-burning-flag1.gif" alt="Aramean burning flag" style="max-height: 100px"> |
-| #burn #flag #דֶגֶל# ܐܳܬܳܐ| <img src="aramean-burning-flag2.gif" alt="Aramean burning flag" style="max-height: 100px"> |
-| #waving #flag #דֶגֶל# ܐܳܬܳܐ| <img src="aramean-waving-flag.gif" alt="Aramean waving flag" style="max-height: 100px"> |
+| #homer #simpsons #woohoo #flag #דֶגֶל# ܐܳܬܳܐ# ܐܬܐ | <img src="aramean-homer.gif" alt="Aramean homer flag" style="max-height: 100px"> |
+| #dance #flag #דֶגֶל# ܐܳܬܳܐ# ܐܬܐ | <img src="aramean-dancer.gif" alt="Aramean dancer" style="max-height: 100px"> |
+| #soccer #player #love #flag #דֶגֶל# ܐܳܬܳܐ# ܐܬܐ | <img src="aramean-soccer-love.gif" alt="Aramean flag soccer player love" style="max-height: 100px"> |
+| #burn #flag #דֶגֶל# ܐܳܬܳܐ# ܐܬܐ | <img src="aramean-burning-flag1.gif" alt="Aramean burning flag" style="max-height: 100px"> |
+| #burn #flag #דֶגֶל# ܐܳܬܳܐ# ܐܬܐ | <img src="aramean-burning-flag2.gif" alt="Aramean burning flag" style="max-height: 100px"> |
+| #waving #flag #דֶגֶל# ܐܳܬܳܐ# ܐܬܐ | <img src="aramean-waving-flag.gif" alt="Aramean waving flag" style="max-height: 100px"> |
 | #burn #flame #icon #סמל | <img src="aramean-burning-icon1.gif" alt="Aramean butning icon" style="max-height: 100px"> |
 | #burn #flame #icon #סמל | <img src="aramean-burning-icon2.gif" alt="Aramean burning icon" style="max-height: 100px"> |
 | #bubble #flag #דֶגֶל# ܓܳܠ# ܓܳܚ# ܒܩܒܩ# ܐܳܬܳܐ | <img src="aramean-bubble-flag1.gif" alt="Aramean bubble flag" style="max-height: 100px"> |
