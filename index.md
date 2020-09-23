@@ -4,9 +4,7 @@
 
 | |
 | :- |
-|
-#aramean #آراميون #arami #ܐܪ̈ܡܝܐ# ܐܪܡܝܐ# אָרָמָיָא #oromoyo #oromoye #suryoyo #ܣܽܘܪܝܳܝܳܐ# ܣܘܪܝܝܐ #suroyo #ܣܘܪܝܐ #suraye #suryoye #aramaya #aramaye #aramaic #aramit #אֲרָמִית# אראמיש# الآرامية #aram #ארם# ܐܳܪܳܡ# ܐܪܡ# ارام
-|
+| #aramean #آراميون #arami #ܐܪ̈ܡܝܐ# ܐܪܡܝܐ# אָרָמָיָא #oromoyo #oromoye #suryoyo #ܣܽܘܪܝܳܝܳܐ# ܣܘܪܝܝܐ #suroyo #ܣܘܪܝܐ #suraye #suryoye #aramaya #aramaye #aramaic #aramit #אֲרָמִית# אראמיש# الآرامية #aram #ארם# ܐܳܪܳܡ# ܐܪܡ# ارام |
 
 | Unique keywords | Search string | Name |  |
 | :-- | :-- | :-- | --: |
