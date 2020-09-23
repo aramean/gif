@@ -20,6 +20,6 @@
 | אִיקוֹנִין ,ܝܩܢ ,ܝܽܘܩܢܳܐ ,ܐܺܝܩܽܘܢܳܐ ,ܢܺܐܩܰܕ ,ܢܐܩܕ, burn, flame, flamme, vlam, icon | <img src="aramean-burning-icon2.gif" alt="Aramean burning icon" style="max-height: 100px"> |
 | דֶגֶל ,ܓܳܠ ,ܓܳܚ ,ܒܩܒܩ ,ܐܳܬܳܐ ,ܐܬܐ, bubble, bubblor, flag, flagga, flagge, drapeau, vlag | <img src="aramean-bubble-flag1.gif" alt="Aramean bubble flag" style="max-height: 100px"> |
 | דֶגֶל ,ܢܶܫܪܳܐ ,ܢܫܪܐ ,ܐܳܬܳܐ ,ܐܬܐ , eagle, örn, adelaar, aigle, flag, flagga, flagge, drapeau, vlag | <img src="aramean-eagle1.gif" alt="Aramean eagle" style="max-height: 100px"> |
-| דֶגֶל ,ܐܳܬܳܐ ,ܐܬܐ, ardo, infrared, camera, kamera, flag, flagga, flagge, drapeau, vlag | <img src="aramean-infrared.gif" alt="Aramean infrared flag" style="max-height: 100px"> |
+| דֶגֶל ,ܐܳܬܳܐ ,ܐܬܐ, infrared, camera, kamera, flag, flagga, flagge, drapeau, vlag | <img src="aramean-infrared.gif" alt="Aramean infrared flag" style="max-height: 100px"> |
 | דֶגֶל ,ܐܳܬܳܐ ,ܐܬܐ, ardo, democratic flag, flagga, flagge, drapeau, vlag | <img src="aramean-ardo-democratic1.gif" alt="Aramean Democratic Organization" style="max-height: 100px"> |
 | דֶגֶל ,ܐܳܬܳܐ ,ܐܬܐ, ardo, democratic flag, flagga, flagge, drapeau, vlag | <img src="aramean-ardo-democratic2.gif" alt="Aramean Democratic Organization" style="max-height: 100px"> |
