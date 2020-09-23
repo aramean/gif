@@ -2,7 +2,7 @@
 
 ## Global keywords
 
-#aramean #آراميون #arami #ܐܪ̈ܡܝܐ# ܐܪܡܝܐ# אָרָמָיָא #oromoyo #oromoye #suryoyo #ܣܽܘܪܝܳܝܳܐ# ܣܘܪܝܝܐ #suroyo #ܣܽܘܪܝܳܝܽܘܬܳܐ# ܣܘܪܝܐ #suraye #suryoye #surayt #sorayt #sureth #aramaya #aramaye #aramaic #aramit #אֲרָמִית# אראמיש# الآرامية #aram #ארם# ܐܳܪܳܡ# ܐܪܡ# ارام
+#aramean #آراميون #arami #ܐܪ̈ܡܝܐ# ܐܪܡܝܐ# אָרָמָיָא #arameanlar #oromoyo #oromoye #suryoyo #ܣܽܘܪܝܳܝܳܐ# ܣܘܪܝܝܐ #suroyo #ܣܽܘܪܝܳܝܽܘܬܳܐ# ܣܘܪܝܐ #suraye #suryoye #surayt #sorayt #sureth #aramaya #aramaye #aramaic #aramit #אֲרָמִית# אראמיש# الآرامية #aram #ארם# ܐܳܪܳܡ# ܐܪܡ# ارام
 
 | Unique keywords | Search string | Name |  |
 | :-- | :-- | :-- | --: |
