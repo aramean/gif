@@ -8,7 +8,7 @@
 | :-- | --: |
 | #homer<br>#simpsons<br>#woohoo#flag| <img src="aramean-homer.gif" alt="Aramean homer flag" style="max-height: 100px"> |
 | #dance#flag | <img src="aramean-dancer.gif" alt="Aramean dancer" style="max-height: 100px"> |
-| #soccer#player#love#flag | <img src="aramean-soccer-love.gif" alt="Aramean flag soccer player love" style="max-height: 100px"> |
+| #soccer#player#love<br>#flag | <img src="aramean-soccer-love.gif" alt="Aramean flag soccer player love" style="max-height: 100px"> |
 | #burn<br>#flag | <img src="aramean-burning-flag1.gif" alt="Aramean burning flag" style="max-height: 100px"> |
 | #burn<br>#flag | <img src="aramean-burning-flag2.gif" alt="Aramean burning flag" style="max-height: 100px"> |
 | #waving<br>#flag | <img src="aramean-waving-flag.gif" alt="Aramean waving flag" style="max-height: 100px"> |
