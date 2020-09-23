@@ -6,7 +6,7 @@
 
 | Combine keywords | Name |
 | :-- | --: |
-| #homer #simpsons #woohoo #flag #דֶגֶל# ܐܳܬܳܐ# ܐܬܐ | <img src="aramean-homer.gif" alt="Aramean homer flag" style="max-height: 100px"> |
+| #homer #simpson #woohoo #flag #דֶגֶל# ܐܳܬܳܐ# ܐܬܐ | <img src="aramean-homer.gif" alt="Aramean homer flag" style="max-height: 100px"> |
 | #dance #flag #דֶגֶל# ܐܳܬܳܐ# ܐܬܐ | <img src="aramean-dancer.gif" alt="Aramean dancer" style="max-height: 100px"> |
 | #soccer #player #love #flag #דֶגֶל# ܐܳܬܳܐ# ܐܬܐ | <img src="aramean-soccer-love.gif" alt="Aramean flag soccer player love" style="max-height: 100px"> |
 | #burn #flag #דֶגֶל# ܐܳܬܳܐ# ܐܬܐ# ܢܺܐܩܰܕ# ܢܐܩܕ | <img src="aramean-burning-flag1.gif" alt="Aramean burning flag" style="max-height: 100px"> |
