@@ -2,10 +2,11 @@
 
 ## Global tags
 
-- aramean ,aramaean, arami, aram, arameanlar, oromoyo, oromoye, suryoyo, suroyo, suraye, suryoye, süryaniler, surayt, sorayt, sureth, aramaya, aramaye, aramaic, aramit, syriac, syriaques, suryanice, arameiska, syrianska, aramäisch, araméer, arameeërs, arameos, arameus, aramaicos, araméens
+- aramean ,aramaean, arami, aramî, aram, arameanlar, oromoyo, oromoye, suryoyo, suroyo, suraye, suryoye, süryaniler, surayt, sorayt, sureth, aramaya, aramaye, aramaic, aramit, syriac, syriaques, suryanice, suryanî, arameiska, syrianska, aramäisch, arameeërs, araméer, arameeërs, arameos, arameus, aramaicos, araméens
 - ܣܽܘܪܝܳܝܽܘܬܳܐ ,ܣܘܼܪܲܝܬ ,ܐܪ̈ܡܝܐ ,ܐܪܡܝܐ ,ܣܘܪܝܝܐ ,ܣܘܪܝܐ ,ܣܽܘܪܝܳܝܳܐ ,ܐܳܪܳܡ ,ܐܪܡ
 - ארם ,סורי ,אֲרָמִית ,אראמיש ,אָרָמָיָא
 - ارام ,آراميون ,الآرامية
+- アラム人, アラミアン
 
 | Filter tags | Name |
 | :-- | --: |
