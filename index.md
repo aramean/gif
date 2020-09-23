@@ -11,7 +11,7 @@
 | #soccer#player#love#flag | <img src="aramean-soccer-love.gif" alt="Aramean flag soccer player love" style="max-height: 100px"> |
 | #burn<br>#flag | <img src="aramean-burning-flag1.gif" alt="Aramean burning flag" style="max-height: 100px"> |
 | #burn<br>#flag | <img src="aramean-burning-flag2.gif" alt="Aramean burning flag" style="max-height: 100px"> |
-| #waving<br>#flag <img src="aramean-waving-flag.gif" alt="Aramean waving flag" style="max-height: 100px"> |
+| #waving<br>#flag | <img src="aramean-waving-flag.gif" alt="Aramean waving flag" style="max-height: 100px"> |
 | #burn<br>#flame<br>#icon | <img src="aramean-burning-icon1.gif" alt="Aramean butning icon" style="max-height: 100px"> |
 | #burn<br>#flame<br>#icon | <img src="aramean-burning-icon2.gif" alt="Aramean burning icon" style="max-height: 100px"> |
 | #bubble<br>#flag | <img src="aramean-bubble-flag1.gif" alt="Aramean bubble flag" style="max-height: 100px"> |
