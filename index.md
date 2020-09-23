@@ -2,7 +2,7 @@
 
 ## Global keywords
 
-ارام, آراميون, الآرامية ,aramean ,aramaean, arami, aram, arameanlar, oromoyo, oromoye, suryoyo, suroyo, suraye, suryoye, süryaniler, surayt, sorayt, sureth, aramaya, aramaye, aramaic, aramit, syriac, suryanice, ארם ,סורי ,אֲרָמִית ,אראמיש ,אָרָמָיָא ,ܣܽܘܪܝܳܝܽܘܬܳܐ, ,ܣܘܼܪܲܝܬ ,ܐܪ̈ܡܝܐ ,ܐܪܡܝܐ ,ܣܘܪܝܝܐ ,ܣܘܪܝܐ ,ܣܽܘܪܝܳܝܳܐ ,ܐܳܪܳܡ ,ܐܪܡ 
+ارام, آراميون, الآرامية ,ארם ,סורי ,אֲרָמִית ,אראמיש ,אָרָמָיָא ,ܣܽܘܪܝܳܝܽܘܬܳܐ ,ܣܘܼܪܲܝܬ ,ܐܪ̈ܡܝܐ ,ܐܪܡܝܐ ,ܣܘܪܝܝܐ ,ܣܘܪܝܐ ,ܣܽܘܪܝܳܝܳܐ ,ܐܳܪܳܡ ,ܐܪܡ, aramean ,aramaean, arami, aram, arameanlar, oromoyo, oromoye, suryoyo, suroyo, suraye, suryoye, süryaniler, surayt, sorayt, sureth, aramaya, aramaye, aramaic, aramit, syriac, suryanice 
 
 | Combine keywords | Name |
 | :-- | --: |
