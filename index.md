@@ -5,7 +5,7 @@
 - aramean ,aramaean, arami, aram, arameanlar, oromoyo, oromoye, suryoyo, suroyo, suraye, suryoye, süryaniler, surayt, sorayt, sureth, aramaya, aramaye, aramaic, aramit, syriac, suryanice, arameiska, syrianska, aramäisch
 - ܣܽܘܪܝܳܝܽܘܬܳܐ ,ܣܘܼܪܲܝܬ ,ܐܪ̈ܡܝܐ ,ܐܪܡܝܐ ,ܣܘܪܝܝܐ ,ܣܘܪܝܐ ,ܣܽܘܪܝܳܝܳܐ ,ܐܳܪܳܡ ,ܐܪܡ
 - ארם ,סורי ,אֲרָמִית ,אראמיש ,אָרָמָיָא
-- ارام, آراميون, الآرامية
+- ارام ,آراميون ,الآرامية
 
 | Filter tags | Name |
 | :-- | --: |
