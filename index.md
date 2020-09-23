@@ -2,11 +2,11 @@
 
 ## Global keywords
 
-#aramean #aramaean #آراميون #arami #ܐܪ̈ܡܝܐ# ܐܪܡܝܐ# אָרָמָיָא #arameanlar #oromoyo #oromoye #suryoyo #ܣܽܘܪܝܳܝܳܐ# ܣܘܪܝܝܐ #suroyo #ܣܽܘܪܝܳܝܽܘܬܳܐ# ܣܘܪܝܐ #suraye #suryoye #süryaniler #surayt #sorayt #sureth #aramaya #aramaye #aramaic #aramit #אֲרָמִית# אראמיש# الآرامية #syriac #סורי #suryanice #السريانية #aram #ארם# ܐܳܪܳܡ# ܐܪܡ# ارام
+ارام, آراميون, الآرامية ,aramean ,aramaean , arami, aram, arameanlar, oromoyo, oromoye, suryoyo, suroyo, suraye, suryoye, süryaniler, surayt, sorayt, sureth, aramaya, aramaye, aramaic, aramit, syriac, suryanice, ארם ,סורי ,אֲרָמִית ,אראמיש ,אָרָמָיָא ,ܣܽܘܪܝܳܝܽܘܬܳܐ, ,ܣܘܼܪܲܝܬ ,ܐܪ̈ܡܝܐ ,ܐܪܡܝܐ ,ܣܘܪܝܝܐ ,ܣܘܪܝܐ ,ܣܽܘܪܝܳܝܳܐ ,ܐܳܪܳܡ ,ܐܪܡ 
 
 | Combine keywords | Name |
 | :-- | --: |
-| #homer #simpson #woohoo #flag #דֶגֶל# ܐܳܬܳܐ# ܐܬܐ | <img src="aramean-homer.gif" alt="Aramean homer flag" style="max-height: 100px"> |
+| homer, simpson, woohoo, flag, דֶגֶל, ܐܳܬܳܐ ,ܐܬܐ | <img src="aramean-homer.gif" alt="Aramean homer flag" style="max-height: 100px"> |
 | #dance #flag #דֶגֶל# ܐܳܬܳܐ# ܐܬܐ | <img src="aramean-dancer.gif" alt="Aramean dancer" style="max-height: 100px"> |
 | #soccer #player #love #flag #דֶגֶל# ܐܳܬܳܐ# ܐܬܐ | <img src="aramean-soccer-love.gif" alt="Aramean flag soccer player love" style="max-height: 100px"> |
 | #burn #flag #דֶגֶל# ܐܳܬܳܐ# ܐܬܐ# ܢܺܐܩܰܕ# ܢܐܩܕ | <img src="aramean-burning-flag1.gif" alt="Aramean burning flag" style="max-height: 100px"> |
