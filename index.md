@@ -4,8 +4,8 @@
 
 #aramean #aramaean #آراميون #arami #ܐܪ̈ܡܝܐ# ܐܪܡܝܐ# אָרָמָיָא #arameanlar #oromoyo #oromoye #suryoyo #ܣܽܘܪܝܳܝܳܐ# ܣܘܪܝܝܐ #suroyo #ܣܽܘܪܝܳܝܽܘܬܳܐ# ܣܘܪܝܐ #suraye #suryoye #süryaniler #surayt #sorayt #sureth #aramaya #aramaye #aramaic #aramit #אֲרָמִית# אראמיש# الآرامية #syriac #סורי #suryanice #السريانية #aram ארם# ܐܳܪܳܡ# ܐܪܡ# ارام
 
-| Unique keywords | Name |  |
-| :-- | :-- | --: |
+| Unique keywords | Name |
+| :-- | --: |
 | #homer<br>#simpsons<br>#woohoo#flag| <img src="aramean-homer.gif" style="max-height: 100px"> |
 | #dance#flag | <img src="aramean-dancer.gif" style="max-height: 100px"> |
 | #soccer#love#flag | <img src="aramean-soccer-love.gif" style="max-height: 100px"> |
